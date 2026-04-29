@@ -1,2 +1,9 @@
 # deps
 node_modules/
+.env
+bun.lockb
+package-lock.json
+dist/
+local.db
+*.log
+
